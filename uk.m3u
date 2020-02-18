@@ -1,87 +1,125 @@
 #EXTM3U
-#EXTINF:-1,UK: Two
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2184.ts
-#EXTINF:-1,UK: STORE BOX OFFICE 1
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2185.ts
-#EXTINF:-1,UK: SPORTS FOOTBALL FHD
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2200.ts
-#EXTINF:-1,UK: SPORTS 5
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2199.ts
-#EXTINF:-1,UK: SPORTS 4
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2198.ts
-#EXTINF:-1,UK: SPORTS 3
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2197.ts
-#EXTINF:-1,UK: SPORTS 2
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2196.ts
-#EXTINF:-1,UK: SPORTS 1
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2195.ts
-#EXTINF:-1,UK: One
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2183.ts
-#EXTINF:-1,UK: Cinema Sci-Fi & Horror HD
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2192.ts
-#EXTINF:-1,UK: Cinema Sci-Fi & Horror FHD
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2193.ts
-#EXTINF:-1,UK: Cinema Premiere HD
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2190.ts
-#EXTINF:-1,UK: Cinema Premiere FHD
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2191.ts
-#EXTINF:-1,UK: Cinema Family HD
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2189.ts
-#EXTINF:-1,UK: Cinema Disney
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2188.ts
-#EXTINF:-1,UK: Cinema Comedy HD
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2187.ts
-#EXTINF:-1,UK: Cinema Action & Adventure
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2186.ts
-#EXTINF:-1,UK: Atlantic
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2182.ts
-#EXTINF:-1,UK: Arts
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2181.ts
-#EXTINF:-1,UK: S4C
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2179.ts
-#EXTINF:-1,UK: National Geographic
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2210.ts
-#EXTINF:-1,UK: Nat Geo Wild
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2207.ts
-#EXTINF:-1,UK: London Live
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2178.ts
-#EXTINF:-1,UK: Living UK
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2177.ts
-#EXTINF:-1,UK: ITV Be
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2176.ts
-#EXTINF:-1,UK: ITV 3
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2175.ts
-#EXTINF:-1,UK: ITV 2
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2174.ts
-#EXTINF:-1,UK: ITV 1
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2173.ts
-#EXTINF:-1,UK: FOX
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2172.ts
-#EXTINF:-1,UK: DMAX
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2171.ts
-#EXTINF:-1,UK: Discovery Science
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2206.ts
-#EXTINF:-1,UK: Discovery ID
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2205.ts
-#EXTINF:-1,UK: Discovery History
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2204.ts
-#EXTINF:-1,UK: Discovery Channel
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2203.ts
-#EXTINF:-1,UK: Create & Craft
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2170.ts
-#EXTINF:-1,UK: Comedy Central HD
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2169.ts
-#EXTINF:-1,UK: Challenge UK
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2168.ts
-#EXTINF:-1,UK: CGTN Documentary
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2202.ts
-#EXTINF:-1,UK: BOX NATION
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2194.ts
-#EXTINF:-1,UK: BET
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2167.ts
-#EXTINF:-1,UK: Animal Planet
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2201.ts
-#EXTINF:-1,UK: 4 Seven HD
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2166.ts
-#EXTINF:-1,UK: 3E HD
-http://iptvsmarters.cc:25461/live/cengiz/Celik/2165.ts
+#EXTINF:-1,BBC ONE W Mid
+http://178.159.9.226:9981/stream/channelid/1228913644
+#EXTINF:-1,BBC TWO
+http://178.159.9.226:9981/stream/channelid/266633281
+#EXTINF:-1,ITV
+http://178.159.9.226:9981/stream/channelid/795899952
+#EXTINF:-1,Channel 4
+http://178.159.9.226:9981/stream/channelid/92681247
+#EXTINF:-1,Channel 5
+http://178.159.9.226:9981/stream/channelid/2085191611
+#EXTINF:-1,ITV2
+http://178.159.9.226:9981/stream/channelid/520386027
+#EXTINF:-1,ITV3
+http://178.159.9.226:9981/stream/channelid/429793241
+#EXTINF:-1,Pick
+http://178.159.9.226:9981/stream/channelid/527345215
+#EXTINF:-1,QUEST
+http://178.159.9.226:9981/stream/channelid/1751367882
+#EXTINF:-1,E4
+http://178.159.9.226:9981/stream/channelid/2016246610
+#EXTINF:-1,Film4
+http://178.159.9.226:9981/stream/channelid/1276945639
+#EXTINF:-1,Channel 4+1
+http://178.159.9.226:9981/stream/channelid/2046175581
+#EXTINF:-1,Really
+http://178.159.9.226:9981/stream/channelid/2029646847
+#EXTINF:-1,More 4
+http://178.159.9.226:9981/stream/channelid/1305438119
+#EXTINF:-1,Dave
+http://178.159.9.226:9981/stream/channelid/1450287031
+#EXTINF:-1,Drama
+http://178.159.9.226:9981/stream/channelid/1127653478
+#EXTINF:-1,5 USA
+http://178.159.9.226:9981/stream/channelid/982365455
+#EXTINF:-1,ITV4
+http://178.159.9.226:9981/stream/channelid/1952797630
+#EXTINF:-1,Yesterday
+http://178.159.9.226:9981/stream/channelid/358583348
+#EXTINF:-1,ITVBe
+http://178.159.9.226:9981/stream/channelid/37226332
+#EXTINF:-1,ITV2 +1
+http://178.159.9.226:9981/stream/channelid/1466062916
+#EXTINF:-1,E4+1
+http://178.159.9.226:9981/stream/channelid/1259210105
+#EXTINF:-1,4Music
+http://178.159.9.226:9981/stream/channelid/767709861
+#EXTINF:-1,5STAR
+http://178.159.9.226:9981/stream/channelid/1219324139
+#EXTINF:-1,5Spike
+http://178.159.9.226:9981/stream/channelid/1061406204
+#EXTINF:-1,Sony Movie Ch
+http://178.159.9.226:9981/stream/channelid/631464659
+#EXTINF:-1,ITV +1
+http://178.159.9.226:9981/stream/channelid/515612708
+#EXTINF:-1,QVC Beauty
+http://178.159.9.226:9981/stream/channelid/1575078241
+#EXTINF:-1,DMAX
+http://178.159.9.226:9981/stream/channelid/1818996694
+#EXTINF:-1,Quest Red
+http://178.159.9.226:9981/stream/channelid/1469326050
+#EXTINF:-1,CBS Justice
+http://178.159.9.226:9981/stream/channelid/1596441901
+#EXTINF:-1,Food Network
+http://178.159.9.226:9981/stream/channelid/1694771830
+#EXTINF:-1,Home
+http://178.159.9.226:9981/stream/channelid/1598571686
+#EXTINF:-1,Channel 5+1
+http://178.159.9.226:9981/stream/channelid/1499811922
+#EXTINF:-1,Film4+1
+http://178.159.9.226:9981/stream/channelid/396687664
+#EXTINF:-1,Challenge
+http://178.159.9.226:9981/stream/channelid/1842810834
+#EXTINF:-1,4seven
+http://178.159.9.226:9981/stream/channelid/469828766
+#EXTINF:-1,Paramount Network
+http://178.159.9.226:9981/stream/channelid/744044922
+#EXTINF:-1,5SELECT
+http://178.159.9.226:9981/stream/channelid/1622179919
+#EXTINF:-1,Blaze
+http://178.159.9.226:9981/stream/channelid/1292655677
+#EXTINF:-1,CBS Reality
+http://178.159.9.226:9981/stream/channelid/117665391
+#EXTINF:-1,Horror Channel
+http://178.159.9.226:9981/stream/channelid/951214409
+#EXTINF:-1,CBS Drama
+http://178.159.9.226:9981/stream/channelid/26968180
+#EXTINF:-1,Dave ja vu
+http://178.159.9.226:9981/stream/channelid/1701802808
+#EXTINF:-1,TalkingPictures TV
+http://178.159.9.226:9981/stream/channelid/1945747016
+#EXTINF:-1,More4+1
+http://178.159.9.226:9981/stream/channelid/388532504
+#EXTINF:-1,BBC ONE HD
+http://178.159.9.226:9981/stream/channelid/1087730583
+#EXTINF:-1,BBC TWO HD
+http://178.159.9.226:9981/stream/channelid/963794284
+#EXTINF:-1,ITV HD
+http://178.159.9.226:9981/stream/channelid/662097640
+#EXTINF:-1,Channel 4 HD
+http://178.159.9.226:9981/stream/channelid/687649960
+#EXTINF:-1,Channel 5 HD
+http://178.159.9.226:9981/stream/channelid/745130515
+#EXTINF:-1,CBBC
+http://178.159.9.226:9981/stream/channelid/753246420
+#EXTINF:-1,CBeebies
+http://178.159.9.226:9981/stream/channelid/1443435881
+#EXTINF:-1,CITV
+http://178.159.9.226:9981/stream/channelid/1112397115
+#EXTINF:-1,CBBC HD
+http://178.159.9.226:9981/stream/channelid/2035275173
+#EXTINF:-1,POP
+http://178.159.9.226:9981/stream/channelid/605745656
+#EXTINF:-1,BBC NEWS
+http://178.159.9.226:9981/stream/channelid/1878620380
+#EXTINF:-1,BBC Parliament
+http://178.159.9.226:9981/stream/channelid/1038348878
+#EXTINF:-1, News
+http://178.159.9.226:9981/stream/channelid/591447793
+#EXTINF:-1,RT
+http://178.159.9.226:9981/stream/channelid/174935677
+#EXTINF:-1,Al Jazeera Eng
+http://178.159.9.226:9981/stream/channelid/372639324
+#EXTINF:-1,BBC RB 1
+http://178.159.9.226:9981/stream/channelid/1185892486
